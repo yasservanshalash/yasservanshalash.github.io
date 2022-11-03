@@ -263,3 +263,9 @@ footer p {
   background-image: linear-gradient(to bottom, #3cb0fd, #3cb0fd);
   text-decoration: none;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    width: 100%;
+  }
+}
