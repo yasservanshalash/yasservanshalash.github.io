@@ -235,6 +235,9 @@ footer p {
   padding: 10px;
 }
 
+a {
+  text-decoration: none;
+}
 .btn {
   display: block;
   margin: 0 auto;
@@ -298,5 +301,11 @@ footer p {
 
   .skills-container img {
     width: 35%;
+  }
+
+  #contact img {
+    width: 40%;
+    position: relative;
+    top: 25px;
   }
 }
