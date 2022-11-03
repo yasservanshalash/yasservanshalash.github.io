@@ -71,8 +71,6 @@ hr {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  position: relative;
-  top: 0px;
 }
 
 .portfolio-img {
@@ -181,8 +179,6 @@ hr {
 
 #contact img {
   width: 15%;
-  position: relative;
-  left: 40px;
 }
 
 footer {
@@ -305,7 +301,5 @@ a {
 
   #contact img {
     width: 40%;
-    position: relative;
-    top: 25px;
   }
 }
