@@ -268,4 +268,12 @@ footer p {
   body {
     width: 100%;
   }
+
+  .nav-list {
+    justify-content: space-around;
+  }
+
+  h1 {
+    font-size: 2.6em;
+  }
 }
