@@ -303,3 +303,12 @@ a {
     width: 40%;
   }
 }
+
+
+@media (max-width: 480px) {
+  body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+}
