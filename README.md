@@ -1,3 +1,3 @@
-![github-back](https://i.ibb.co/b1QqR6W/laptop-wave.png)
+![github-back](https://i.ibb.co/b1QqR6W/laptop-wave.png | width: 200px)
 # yasservanshalash.github.io
 Yasser's portfolio made in html and css
